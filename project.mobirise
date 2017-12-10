@@ -289,14 +289,16 @@
           "_anchor": "features1-m",
           "_styles": {
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section__col .mbr-header__text P": {
               "text-align": "left",
               "font-size": "17px",
               "color": "#222222",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
@@ -329,7 +331,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/advertisers-627x234.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -394,7 +399,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/publisher-456x257.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",

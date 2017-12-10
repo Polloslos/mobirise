@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 #dropdown-menu-2btn-g .hide-buttons [data-button] {
   display: none !important;
@@ -25,12 +26,13 @@
 }
 #features1-m P {
   color: #000000;
+  font-family: 'Montserrat', sans-serif;
 }
 #features1-m .mbr-section__col .mbr-header__text P {
   text-align: left;
   font-size: 17px;
   color: #222222;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box4-i .mbr-header__text {
   color: #ffffff;
